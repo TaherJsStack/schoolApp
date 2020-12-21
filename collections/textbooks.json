@@ -1,0 +1,511 @@
+[{
+  "_id": {
+    "$oid": "5ef395e79ff7872e363ba656"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T09:26:29.551Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5eea6cef61b4da362e61900a",
+      "teacherName": "pGTZC TguNI"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5eea6cef61b4da362e619008",
+      "teacherName": "AqLrS ldiWn"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5eea6cef61b4da362e619007",
+      "teacherName": "gdQac tIWQJ"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5eea6cef61b4da362e619006",
+      "teacherName": "FezUF pbBts"
+    }
+  ],
+  "term": "first term",
+  "notes": "printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type",
+  "stage": "preschool",
+  "level": "level 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3966d9ff7872e363ba657"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T09:26:29.551Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5eea6cef61b4da362e61900a",
+      "teacherName": "pGTZC TguNI"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5eea6cef61b4da362e619008",
+      "teacherName": "AqLrS ldiWn"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5eea6cef61b4da362e619007",
+      "teacherName": "gdQac tIWQJ"
+    }
+  ],
+  "term": "second term",
+  "notes": "specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets",
+  "stage": "preschool",
+  "level": "level 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef396ce9ff7872e363ba658"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T09:26:29.551Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5eea6cef61b4da362e61900a",
+      "teacherName": "pGTZC TguNI"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5eea6cef61b4da362e619008",
+      "teacherName": "AqLrS ldiWn"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5eea6cef61b4da362e619007",
+      "teacherName": "gdQac tIWQJ"
+    }
+  ],
+  "term": "first term",
+  "notes": "random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem ",
+  "stage": "preschool",
+  "level": "level 2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef397139ff7872e363ba659"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T09:26:29.551Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5eea6cef61b4da362e61900a",
+      "teacherName": "pGTZC TguNI"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5eea6cef61b4da362e619008",
+      "teacherName": "AqLrS ldiWn"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5eea6cef61b4da362e619007",
+      "teacherName": "gdQac tIWQJ"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5eea6cef61b4da362e619006",
+      "teacherName": "FezUF pbBts"
+    }
+  ],
+  "term": "second term",
+  "notes": "random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem ",
+  "stage": "preschool",
+  "level": "level 2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3b5a9543db96012a1ada8"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5ee8daa2389a811deee942bc",
+      "teacherName": "hgfhdfgh dfjgdfg"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5ee8daf0137ccc6039c26466",
+      "teacherName": "tVpBj oHgJT"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5ee8daf3137ccc6039c2646a",
+      "teacherName": "OQCow JkcVY"
+    },
+    {
+      "subjectName": "textbook 5",
+      "teatcherId": "5ee8daf1137ccc6039c26468",
+      "teacherName": "InNPr izuis"
+    },
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5ee8daf3137ccc6039c2647d",
+      "teacherName": "QtyUd KBJyr"
+    }
+  ],
+  "term": "first term",
+  "notes": "random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem ",
+  "stage": "elementary",
+  "level": "level 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3b612543db96012a1ada9"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5ee8daf3137ccc6039c2647c",
+      "teacherName": "rMUPk fSZPS"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5eea6cb561b4da362e618fe8",
+      "teacherName": "ignwB biUVi"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5ee8daf3137ccc6039c26478",
+      "teacherName": "AJWuF SQWik"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5eea6cb561b4da362e618fd8",
+      "teacherName": "QMPUi BoeFL"
+    },
+    {
+      "subjectName": "textbook 5",
+      "teatcherId": "5eea6cef61b4da362e619000",
+      "teacherName": "aKcnY Lrrsf"
+    }
+  ],
+  "term": "second term",
+  "notes": "random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem ",
+  "stage": "elementary",
+  "level": "level 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3b846543db96012a1adaa"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5ee8daf3137ccc6039c2647d",
+      "teacherName": "QtyUd KBJyr"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5ee8daf0137ccc6039c26466",
+      "teacherName": "tVpBj oHgJT"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    }
+  ],
+  "term": "first term",
+  "notes": "make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently ",
+  "stage": "elementary",
+  "level": "level 2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3b8f4543db96012a1adab"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "dgdfgjdfjfghkf",
+      "teatcherId": "5ee8daf3137ccc6039c2646c",
+      "teacherName": "hGoRR SeETB"
+    }
+  ],
+  "term": "first term",
+  "notes": "make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently ",
+  "stage": "elementary",
+  "level": "level 4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3b99c543db96012a1adac"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5ee8daf3137ccc6039c2646c",
+      "teacherName": "hGoRR SeETB"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5ee8daf3137ccc6039c2646c",
+      "teacherName": "hGoRR SeETB"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    }
+  ],
+  "term": "second term",
+  "notes": "make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently ",
+  "stage": "elementary",
+  "level": "level 2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3ba9e543db96012a1adad"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5ee8daf3137ccc6039c2646c",
+      "teacherName": "hGoRR SeETB"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5ee8daf3137ccc6039c26478",
+      "teacherName": "AJWuF SQWik"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5eea6cb561b4da362e618fd3",
+      "teacherName": "EJuJw WePjO"
+    }
+  ],
+  "term": "second term",
+  "notes": "make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently ",
+  "stage": "elementary",
+  "level": "level 3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3bafc543db96012a1adae"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "textbook 1",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    },
+    {
+      "subjectName": "textbook 2",
+      "teatcherId": "5ee8daf3137ccc6039c2646c",
+      "teacherName": "hGoRR SeETB"
+    },
+    {
+      "subjectName": "textbook 3",
+      "teatcherId": "5ee8daf3137ccc6039c2646c",
+      "teacherName": "hGoRR SeETB"
+    },
+    {
+      "subjectName": "textbook 4",
+      "teatcherId": "5eea6cb561b4da362e618fd4",
+      "teacherName": "cmtVz dUKzk"
+    },
+    {
+      "subjectName": "textbook 5",
+      "teatcherId": "5eea6cb561b4da362e618fd3",
+      "teacherName": "EJuJw WePjO"
+    }
+  ],
+  "term": "second term",
+  "notes": "make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently ",
+  "stage": "elementary",
+  "level": "level 4",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3bb95543db96012a1adaf"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "level 5 textbook 1",
+      "teatcherId": "5ee8daf3137ccc6039c2647d",
+      "teacherName": "QtyUd KBJyr"
+    },
+    {
+      "subjectName": "level 5 textbook 2",
+      "teatcherId": "5eea6cb561b4da362e618fd4",
+      "teacherName": "cmtVz dUKzk"
+    },
+    {
+      "subjectName": "level 5 textbook 3",
+      "teatcherId": "5eea6cb561b4da362e618fd4",
+      "teacherName": "cmtVz dUKzk"
+    }
+  ],
+  "term": "first term",
+  "notes": "make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently ",
+  "stage": "elementary",
+  "level": "level 5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3bbda543db96012a1adb0"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "level 5 textbook 1 ",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    },
+    {
+      "subjectName": "level 5 textbook 2",
+      "teatcherId": "5eea6cb561b4da362e618feb",
+      "teacherName": "klmCb BdcaH"
+    },
+    {
+      "subjectName": "level 5 textbook 3",
+      "teatcherId": "5ee8daf4137ccc6039c26481",
+      "teacherName": "YwRPB rzlEz"
+    },
+    {
+      "subjectName": "level 5 textbook 4",
+      "teatcherId": "5eea6cef61b4da362e618ffe",
+      "teacherName": "NwYiB fYTne"
+    }
+  ],
+  "term": "second term",
+  "notes": "level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1level 5 textbook 1",
+  "stage": "elementary",
+  "level": "level 5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3bd9b543db96012a1adb1"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "level 6 textbook 1\t",
+      "teatcherId": "5ee8daf4137ccc6039c26481",
+      "teacherName": "YwRPB rzlEz"
+    },
+    {
+      "subjectName": "level 6 textbook 2",
+      "teatcherId": "5ee8daf3137ccc6039c2646b",
+      "teacherName": "VRRLj CtQSa"
+    },
+    {
+      "subjectName": "level 6 textbook 3",
+      "teatcherId": "5eea6cb561b4da362e618fdb",
+      "teacherName": "RZgUR kxpFP"
+    },
+    {
+      "subjectName": "level 6 textbook 4",
+      "teatcherId": "5eea6cef61b4da362e618ffe",
+      "teacherName": "NwYiB fYTne"
+    }
+  ],
+  "term": "first term",
+  "notes": "level 6 textbook 2level 6 textbook 2level 6 textbook 2level 6 textbook 2level 6 textbook 2",
+  "stage": "elementary",
+  "level": "level 6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ef3bdc8543db96012a1adb2"
+  },
+  "creator": "creator",
+  "created_at": {
+    "$date": "2020-06-24T20:17:57.449Z"
+  },
+  "termTextbooks": [
+    {
+      "subjectName": "level 6 textbook 1",
+      "teatcherId": "5ee8daf0137ccc6039c26466",
+      "teacherName": "tVpBj oHgJT"
+    },
+    {
+      "subjectName": "level 6 textbook 2",
+      "teatcherId": "5ee8daf3137ccc6039c26476",
+      "teacherName": "UERPG mEubw"
+    },
+    {
+      "subjectName": "level 6 textbook 3",
+      "teatcherId": "5ee8daf3137ccc6039c26473",
+      "teacherName": "OtxqO nMOOY"
+    }
+  ],
+  "term": "second term",
+  "notes": "level 6 textbook 2level 6 textbook 2level 6 textbook 2level 6 textbook 2",
+  "stage": "elementary",
+  "level": "level 6",
+  "__v": 0
+}]

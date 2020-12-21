@@ -1,0 +1,50 @@
+<section class="sheared-menu slider" [style.backgroundImage]="'url('+ bg +')'" appScrollMenu> 
+  <!-- <section class=" sheared-menu" style="background-image: url(https://www.mescairo.com/images/1920x730_slide2.jpg)">  -->
+  <div class="fixed-footer-menu">
+    <div class="page-title">
+      <span> {{ pgTitle }} </span>
+      <nav aria-label="breadcrumb text-center">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Home</a></li>
+          <li class="breadcrumb-item" > {{ pgTitle }}</li>
+        </ol>
+      </nav>
+      
+    </div>
+<!-- <h1>ppp =>  {{ bgImgage }} {{ sd }}</h1> -->
+
+
+
+
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">
+          <img class="logo" src="assets/image/logo.png">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <!-- <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li> -->
+          </ul>
+          <ul class="navbar-nav ml-auto">
+            <li routerLinkActive="active" routerLink="/index" class="nav-item"><a class="nav-link">home</a></li>
+            <li routerLinkActive="active" routerLink="/about" class="nav-item"><a class="nav-link">about</a></li>
+            <li routerLinkActive="active" routerLink="/features" class="nav-item"><a class="nav-link">features</a></li>
+            <li routerLinkActive="active" routerLink="/gallery" class="nav-item"><a class="nav-link">gallery</a></li>
+            <!-- <li routerLinkActive="active" routerLink="/services" class="nav-item"><a class="nav-link">services</a></li> -->
+            <li routerLinkActive="active" routerLink="/blog" class="nav-item"><a class="nav-link">blog</a></li>
+            <li routerLinkActive="active" routerLink="/contact" class="nav-item"><a class="nav-link">contact</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+  </div>
+
+</section>

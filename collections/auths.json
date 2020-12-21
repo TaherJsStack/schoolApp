@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "5e6ab0b8732c92359c47ba93"
+  },
+  "auth": [
+    {
+      "name": {
+        "firstname": "Oberon",
+        "lastname": "Oberon"
+      },
+      "address": {
+        "country": "country.name",
+        "street": "jfghj",
+        "city": "jgjhfg"
+      },
+      "_id": "5e678ea997d7dc290c91cef0",
+      "notes": " Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy",
+      "email": "oberon@oberon.yjt",
+      "phone": 657468567985,
+      "ginder": "male",
+      "roll": "worker",
+      "imageUrl": "https://secret-beach-19970.herokuapp.com/images/employees/student-in-the-spotlight-cruz-pic.jpeg-1583845033854.jpg",
+      "birthdate": "2020-03-17T22:00:00.000Z",
+      "created_at": "2020-03-10T12:57:13.840Z",
+      "activeAccount": false,
+      "creatorId": "creatorId",
+      "workHours": "30",
+      "salary": "67456",
+      "work": "worker",
+      "__v": 0
+    }
+  ],
+  "created_at": {
+    "$date": "2020-03-12T21:51:51.321Z"
+  },
+  "roll": "worker",
+  "email": "oberon@oberon.yjt",
+  "password": "$2b$10$NKfYYUQqrDs/6RIXvPe81e0lHGqTOmGkPctzYrFceRCizf5NhUnRC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e6a6e082886453d685c8934"
+  },
+  "auth": [
+    {
+      "name": {
+        "firstname": "Abel",
+        "lastname": "Yasin"
+      },
+      "address": {
+        "country": "country.name",
+        "street": "trutr",
+        "city": "stu"
+      },
+      "_id": "5e678cd297d7dc290c91ceee",
+      "notes": " Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy",
+      "email": "yasin@yasin.tyyu",
+      "phone": 34574568456,
+      "ginder": "male",
+      "roll": "driver",
+      "imageUrl": "http://localhost:3000/images/employees/5c0feb224a4585b132a81514_serg-p.jpg-1583844562274.jpg",
+      "birthdate": "2020-03-20T22:00:00.000Z",
+      "created_at": "2020-03-10T12:49:22.257Z",
+      "activeAccount": false,
+      "creatorId": "creatorId",
+      "workHours": "30",
+      "salary": "7456",
+      "work": "driver",
+      "__v": 0
+    }
+  ],
+  "created_at": {
+    "$date": "2020-03-12T16:52:41.326Z"
+  },
+  "roll": "driver",
+  "email": "yasin@yasin.tyyu",
+  "password": "$2b$10$Ryg30fdjlrh2iMh2D.BGd.mVgdc.ZtP0Yqukg6aOtVloF033pr0gu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e6aafc7732c92359c47ba92"
+  },
+  "auth": [
+    {
+      "name": {
+        "firstname": "Yamin",
+        "lastname": "Yana"
+      },
+      "address": {
+        "country": "country.name",
+        "street": "ftryiyr",
+        "city": "fjfjku"
+      },
+      "_id": "5e678e6297d7dc290c91ceef",
+      "notes": " Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy",
+      "email": "yamin@yamin.yamin",
+      "phone": 674568567,
+      "ginder": "male",
+      "roll": "driver",
+      "imageUrl": "https://secret-beach-19970.herokuapp.com/images/employees/peter_cassidy_square_560-256x256.jpg-1583844962288.jpg",
+      "birthdate": "2019-07-26T22:00:00.000Z",
+      "created_at": "2020-03-10T12:56:02.144Z",
+      "activeAccount": false,
+      "creatorId": "creatorId",
+      "workHours": "30",
+      "salary": "56745",
+      "work": "driver",
+      "__v": 0
+    }
+  ],
+  "created_at": {
+    "$date": "2020-03-12T21:51:51.321Z"
+  },
+  "roll": "driver",
+  "email": "yamin@yamin.yamin",
+  "password": "$2b$10$u4C9vGaw0EwaPsvnjhXEG.FkgV2sKjswqHjA7q4nuCPwYZqxwn1ry",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e6a54e19d245039203152fa"
+  },
+  "auth": [
+    {
+      "name": {
+        "firstname": "taher",
+        "lastname": "ahmed"
+      },
+      "address": {
+        "country": "country.name",
+        "street": "aboutisht",
+        "city": "qena"
+      },
+      "_id": "5e6a534a2d7c231bc00c409e",
+      "notes": "Lorem Ipsum is that it has a more-or-less normal distribution of letters",
+      "email": "t.taher.mean@gmail.com",
+      "phone": 1155721425,
+      "ginder": "male",
+      "roll": "Administrative",
+      "imageUrl": "https://secret-beach-19970.herokuapp.com/images/employees/6d4a446b4b5e159e2215e85278b34e70.jpg-1584026442762.jpg",
+      "birthdate": "1993-03-03T22:00:00.000Z",
+      "created_at": "2020-03-12T15:20:42.601Z",
+      "activeAccount": false,
+      "creatorId": "creatorId",
+      "workHours": "30",
+      "salary": "0",
+      "work": "Administrative",
+      "__v": 0
+    }
+  ],
+  "created_at": {
+    "$date": "2020-03-12T15:25:45.466Z"
+  },
+  "roll": "root",
+  "email": "t.taher.mean@gmail.com",
+  "password": "$2b$10$AV1s7SO2p6OwiSq8DeI9ou1mrr57plpmMq903kCcXuNqKYaU1s9zy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee10dd6b808c732e0af61e6"
+  },
+  "auth": [
+    {
+      "name": {
+        "firstname": "hoda",
+        "lastname": "ahmed"
+      },
+      "address": {
+        "country": "country.name",
+        "street": "qena",
+        "city": "qena"
+      },
+      "_id": "5ee10cc8b808c732e0af61e3",
+      "notes": "fsdfsdgsd",
+      "email": "hoda@h.s",
+      "phone": 112359656,
+      "ginder": "female",
+      "roll": "Administrative",
+      "imageUrl": "http://localhost:4000/images/employees/images-(1).jfif-1581211585384.jpg-1591666911151.jpg-1591807161223.jpg",
+      "birthdate": "2000-02-08T22:00:00.000Z",
+      "created_at": "2020-06-10T16:39:21.210Z",
+      "activeAccount": false,
+      "creatorId": "5e6a54e19d245039203152fa",
+      "workHours": "30",
+      "salary": "8000",
+      "work": "Administrative",
+      "creatorName": "taher ahmed",
+      "__v": 0
+    }
+  ],
+  "created_at": {
+    "$date": "2020-06-10T16:39:01.665Z"
+  },
+  "roll": "Administrative",
+  "email": "hoda@h.s",
+  "password": "$2a$10$1NTqTIRSR5dNCwqL3MRK.egwci0nk9Yqcjy.GFV7PIb4lZ5To.z1K",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee10df5b808c732e0af61e7"
+  },
+  "auth": [
+    {
+      "name": {
+        "firstname": "fatema",
+        "lastname": "ahmed"
+      },
+      "address": {
+        "country": "country.name",
+        "street": "qena",
+        "city": "qena"
+      },
+      "_id": "5ee10d39b808c732e0af61e4",
+      "notes": "dtserywer",
+      "email": "fatema@f.s",
+      "phone": 1254466556,
+      "ginder": "female",
+      "roll": "Administrative",
+      "imageUrl": "http://localhost:4000/images/employees/in_defence_of_toys_-_maileg_87a77737-d4df-4192-97cc-32b9edce4493_256x.progressive.jpg-1583768765672.jpg-1591668052888.jpg-1591807289570.jpg",
+      "birthdate": "2005-07-13T21:00:00.000Z",
+      "created_at": "2020-06-10T16:41:29.559Z",
+      "activeAccount": false,
+      "creatorId": "5e6a54e19d245039203152fa",
+      "workHours": "30",
+      "salary": "9000",
+      "work": "Administrative",
+      "creatorName": "taher ahmed",
+      "__v": 0
+    }
+  ],
+  "created_at": {
+    "$date": "2020-06-10T16:39:01.665Z"
+  },
+  "roll": "Administrative",
+  "email": "fatema@f.s",
+  "password": "$2a$10$DHzTmDty52MHozpUk0H39OeycqeF7rsgUip2W9brPiuCe5IUhopqm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ee10e06b808c732e0af61e8"
+  },
+  "auth": [
+    {
+      "name": {
+        "firstname": "ibrahem",
+        "lastname": "ahmed"
+      },
+      "address": {
+        "country": "country.name",
+        "street": "qena",
+        "city": "qena"
+      },
+      "_id": "5ee10d7eb808c732e0af61e5",
+      "notes": "fdhsfgdfgh",
+      "email": "ibra@i.s",
+      "phone": 157565562,
+      "ginder": "male",
+      "roll": "Administrative",
+      "imageUrl": "http://localhost:4000/images/employees/images-(1).jfif-1581211585384.jpg-1591666868746.jpg-1591803523534.jpg-1591807358279.jpg",
+      "birthdate": "2020-06-23T22:00:00.000Z",
+      "created_at": "2020-06-10T16:42:38.267Z",
+      "activeAccount": false,
+      "creatorId": "5e6a54e19d245039203152fa",
+      "workHours": "30",
+      "salary": "8000",
+      "work": "Administrative",
+      "creatorName": "taher ahmed",
+      "__v": 0
+    }
+  ],
+  "created_at": {
+    "$date": "2020-06-10T16:39:01.665Z"
+  },
+  "roll": "Administrative",
+  "email": "ibra@i.s",
+  "password": "$2a$10$PuGcyEQRcvxzM5hdImOtFe91R58Uc5SYd8qZVt5bG4cikQyROzxSC",
+  "__v": 0
+}]

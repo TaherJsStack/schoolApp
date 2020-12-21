@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "5eeecd8fff60245d74f28b4f"
+  },
+  "type": "bus Attend",
+  "monthAttendes": [
+    {
+      "_id": {
+        "$oid": "5eeecd8fff60245d74f28b50"
+      },
+      "month": "June",
+      "dayAttendes": [
+        {
+          "_id": {
+            "$oid": "5eeecd8fff60245d74f28b51"
+          },
+          "day": "1"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eeed358ff60245d74f28b56"
+  },
+  "type": "class Attend",
+  "monthAttendes": [
+    {
+      "_id": {
+        "$oid": "5eeed358ff60245d74f28b57"
+      },
+      "month": "June",
+      "dayAttendes": [
+        {
+          "_id": {
+            "$oid": "5eeed358ff60245d74f28b58"
+          },
+          "day": "19",
+          "class": "level 2 / 1"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,24 @@
+// default colors
+.theme-wrapper {
+    --cardColor: rgb(42, 212, 127);
+    --cardBackground: rgb(190, 90, 90);
+    --buttonColor: rgb(32, 127, 204);
+    --buttonBackground: rgb(128, 20, 20);
+    --navColor: rgb(87, 248, 24);
+    --navBackground: rgb(31, 14, 185);
+    --footerColor: rgb(241, 43, 135);
+    --footerBackground: rgb(109, 11, 11);
+    --footerAlignment: left;
+}
+// pass variables into a sass map
+$variables: (
+    --cardColor: var(--cardColor),
+    --cardBackground: var(--cardBackground),
+    --buttonColor: var(--buttonColor),
+    --buttonBackground: var(--buttonBackground),
+    --navColor: var(--navColor),
+    --navBackground: var(--navBackground),
+    --footerColor: var(--footerColor),
+    --footerBackground: var(--footerBackground),
+    --footerAlignment: var(--footerAlignment)
+);

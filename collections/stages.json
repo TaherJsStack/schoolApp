@@ -1,0 +1,229 @@
+[{
+  "_id": {
+    "$oid": "5eeba9733b33762675f7d330"
+  },
+  "stageName": "preschool",
+  "leveles": [
+    {
+      "_id": {
+        "$oid": "5eeba9733b33762675f7d331"
+      },
+      "levelName": "level 1",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eeba9733b33762675f7d332"
+          },
+          "className": "level 1 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eebb3847ef2092c143d1a46"
+      },
+      "levelName": "level 2",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eebb3847ef2092c143d1a47"
+          },
+          "className": "level 2 / 1"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eebb4ce7ef2092c143d1a90"
+  },
+  "stageName": "elementary",
+  "leveles": [
+    {
+      "_id": {
+        "$oid": "5eebb4ce7ef2092c143d1a91"
+      },
+      "levelName": "level 1",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eebb4ce7ef2092c143d1a92"
+          },
+          "className": "level 1 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed26a24ab367135a57812f"
+      },
+      "levelName": "level 2",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed26a24ab367135a578130"
+          },
+          "className": "level 1 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed4f61d6a8d22d59c8d231"
+      },
+      "levelName": "level 3",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed4f61d6a8d22d59c8d232"
+          },
+          "className": "level 1 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed50bac5c73d2e9e2a1713"
+      },
+      "levelName": "level 4",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed50bac5c73d2e9e2a1714"
+          },
+          "className": "level 1 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed512dc5c73d2e9e2a1743"
+      },
+      "levelName": "level 5",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed512dc5c73d2e9e2a1744"
+          },
+          "className": "level 1 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed539ac5c73d2e9e2a183b"
+      },
+      "levelName": "level 6",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed539ac5c73d2e9e2a183c"
+          },
+          "className": "level 6 / 1"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eed5180c5c73d2e9e2a176a"
+  },
+  "stageName": "middle",
+  "leveles": [
+    {
+      "_id": {
+        "$oid": "5eed5180c5c73d2e9e2a176b"
+      },
+      "levelName": "level 1",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed5180c5c73d2e9e2a176c"
+          },
+          "className": "level 1 / 2"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed5239c5c73d2e9e2a179f"
+      },
+      "levelName": "level 2",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed5239c5c73d2e9e2a17a0"
+          },
+          "className": "level 2 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed52cfc5c73d2e9e2a17e5"
+      },
+      "levelName": "level 3",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed52cfc5c73d2e9e2a17e6"
+          },
+          "className": "level 3 / 1"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5eed5873c5c73d2e9e2a18a6"
+  },
+  "stageName": "high",
+  "leveles": [
+    {
+      "_id": {
+        "$oid": "5eed5873c5c73d2e9e2a18a7"
+      },
+      "levelName": "level 1",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed5873c5c73d2e9e2a18a8"
+          },
+          "className": "level 3 / 1"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed5894c5c73d2e9e2a18b5"
+      },
+      "levelName": "level 3",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed5894c5c73d2e9e2a18b6"
+          },
+          "className": "level 3 / 2"
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "5eed597ac5c73d2e9e2a18fd"
+      },
+      "levelName": "level 2",
+      "classesName": [
+        {
+          "_id": {
+            "$oid": "5eed597ac5c73d2e9e2a18fe"
+          },
+          "className": "level 2 / 1"
+        }
+      ]
+    }
+  ],
+  "__v": 0
+}]

@@ -1,0 +1,13 @@
+
+<app-loading-screen appLoadingScreen></app-loading-screen>
+
+<router-outlet></router-outlet>
+
+<div appScrollTop class="backToTopPage" (onBackToTopPage)="onBackToTopPage($event)">
+    <i class="fas fa-arrow-up"></i>
+</div>
+
+
+<!-- 
+    *ngIf="backToTopPage" 
+ -->

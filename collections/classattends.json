@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "5eeed35aff60245d74f28b59"
+  },
+  "day": "19",
+  "month": "June",
+  "type": "class Attend",
+  "classesAttendes": [
+    {
+      "students": [
+        {
+          "id": "5ee819aa389a811deee93765",
+          "name": "ULSDx GIrTX"
+        },
+        {
+          "id": "5ee819ad389a811deee9376e",
+          "name": "UgYIH GIrTX"
+        },
+        {
+          "id": "5ee8d407389a811deee937b1",
+          "name": "seTPT wQqoU"
+        },
+        {
+          "id": "5ee8d407389a811deee937b6",
+          "name": "jbdwl VpoBo"
+        },
+        {
+          "id": "5ee8d407389a811deee937c7",
+          "name": "obTnx fXnjq"
+        }
+      ],
+      "creator": "22222",
+      "created_at": {
+        "$date": "2020-06-21T02:52:25.979Z"
+      },
+      "_id": {
+        "$oid": "5eeed35aff60245d74f28b5a"
+      },
+      "notes": "sssssss",
+      "levelName": "level 2",
+      "className": "level 2 / 1"
+    }
+  ],
+  "monthId": {
+    "$oid": "5eeed358ff60245d74f28b57"
+  },
+  "__v": 0
+}]
